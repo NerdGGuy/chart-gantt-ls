@@ -1,0 +1,9 @@
+[submodule "d5-ls"]
+	path = d5-ls
+	url = https://github.com/NerdGGuy/d5-ls.git
+[submodule "d3"]
+	path = d3
+	url = https://github.com/mbostock/d3.git
+[submodule "prelude-ls"]
+	path = prelude-ls
+	url = https://github.com/gkz/prelude-ls.git
